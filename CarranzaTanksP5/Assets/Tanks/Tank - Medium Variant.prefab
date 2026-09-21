@@ -30,11 +30,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 297695569270107994, guid: cd32bc87c6babdb4aa950a6cc9221a99, type: 3}
       propertyPath: m_ExplosionForce
-      value: 100
+      value: 150
       objectReference: {fileID: 0}
     - target: {fileID: 297695569270107994, guid: cd32bc87c6babdb4aa950a6cc9221a99, type: 3}
       propertyPath: m_ExplosionRadius
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 647410768053913776, guid: cd32bc87c6babdb4aa950a6cc9221a99, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.398
       objectReference: {fileID: 0}
     - target: {fileID: 731584607519810393, guid: cd32bc87c6babdb4aa950a6cc9221a99, type: 3}
       propertyPath: m_LocalPosition.x
@@ -98,7 +102,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8155106307499958424, guid: cd32bc87c6babdb4aa950a6cc9221a99, type: 3}
       propertyPath: m_StartingHealth
-      value: 200
+      value: 150
       objectReference: {fileID: 0}
     - target: {fileID: 8954247538645444288, guid: cd32bc87c6babdb4aa950a6cc9221a99, type: 3}
       propertyPath: m_Name
