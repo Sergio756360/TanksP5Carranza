@@ -95,6 +95,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 297695569270107994, guid: cd32bc87c6babdb4aa950a6cc9221a99, type: 3}
+      propertyPath: m_Shell
+      value: 
+      objectReference: {fileID: 5409530, guid: 34ffd23e4d09d934dbd028be2de988ea, type: 3}
+    - target: {fileID: 297695569270107994, guid: cd32bc87c6babdb4aa950a6cc9221a99, type: 3}
       propertyPath: m_ShotCooldown
       value: 1.25
       objectReference: {fileID: 0}

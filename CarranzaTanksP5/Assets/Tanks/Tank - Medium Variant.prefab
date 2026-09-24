@@ -25,6 +25,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 297695569270107994, guid: cd32bc87c6babdb4aa950a6cc9221a99, type: 3}
+      propertyPath: m_Shell
+      value: 
+      objectReference: {fileID: 5409530, guid: 18607f4cffc40534a8dca87258067cf3, type: 3}
+    - target: {fileID: 297695569270107994, guid: cd32bc87c6babdb4aa950a6cc9221a99, type: 3}
       propertyPath: m_MaxDamage
       value: 80
       objectReference: {fileID: 0}
